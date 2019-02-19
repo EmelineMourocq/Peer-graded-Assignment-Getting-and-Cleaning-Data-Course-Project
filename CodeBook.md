@@ -127,6 +127,7 @@ Variables names without -x, -y or -z at the end are vectors obtained by averagin
 For all of those variables mean, standard deviation and a weighted average of the frequency components to obtain a mean frequency was estimated
 
 VALUES
+
 The number variables are average for each activity and each subject of each meansurments mentioned herebefore.
 
 
